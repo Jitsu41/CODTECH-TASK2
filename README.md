@@ -31,6 +31,10 @@ By achieving these objectives, the Weather Forecasting App aims to provide users
 
 
 
+![Screenshot 2024-07-08 141721](https://github.com/Jitsu41/CODTECH-TASK2/assets/169130334/03d0937e-7b96-44b6-ba67-7345a162ecce)
+
+
+
 
 
 
